@@ -1,4 +1,4 @@
- public class Main {
+public class Main {
     public static void main(String[] args) {
 //        Timer timer = new Timer(1);
 //        timer.startTimer( );
